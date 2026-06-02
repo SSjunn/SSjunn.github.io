@@ -2,3 +2,14 @@ title: "[신한DS금융SW 아카데미] 오목 웹소켓"
 date: 2025-12-10
 categories: [프로젝트]
 tags: [신한DS금융SW아카데미]
+
+
+개발 기간 : 2025.12.12 ~ 2025.12.24 (13일)
+플랫폼 : Web
+개발 인원 : 6명
+
+### 개발환경
+IDE: intellij, eclipse
+서버: tomcat9 + JDK17
+DB: postgreSQL
+기술 스택: JAVA, JSP, Servlet, CSS, JS
